@@ -1,0 +1,1 @@
+MsgBox"Blad: Opcja dopiero w nastepnej wersji", vbCritical,"Blad"
